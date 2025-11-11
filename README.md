@@ -83,5 +83,4 @@ Developer: Metin Meric
 
 Email: sifreliders@gmail.com
 
-Website: https://metinapps.com
 
