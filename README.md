@@ -50,8 +50,6 @@ Spend Guide requests only minimal permissions necessary for its offline operatio
 
 Storage access: to export or import local data files
 
-Biometric access (optional): to enable local device authentication
-
 No other device permissions (camera, contacts, location, etc.) are required or used.
 
 **6. Data Sharing**
