@@ -4,7 +4,7 @@ Last Updated: November 2025
 
 App Name: Spend Guide
 
-Developer: Metin Meric
+Developer: Şifreli Ders
 
 
 **1. Overview**
@@ -77,7 +77,7 @@ Uninstall the app to permanently delete all data stored on your device.
 
 If you have any questions or concerns about privacy, please contact the developer:
 
-Developer: Metin Meric
+Developer: Şifreli Ders
 
 Email: sifreliders@gmail.com
 
